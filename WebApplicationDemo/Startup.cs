@@ -13,7 +13,8 @@ namespace WebApplicationDemo
 {
     public class Startup
     {
-        // THIS IS A TEST CHANGE - Edit
+
+        // Hello world - this is a new comment
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
